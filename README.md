@@ -21,9 +21,11 @@
     * [Día 25](#día-25)
     * [Día 24](#día-24-1)
     * [Día 27](#día-27)
+* [Hiroshima](#hiroshima-)
   * [Cosas que ver](#cosas-que-ver)
-  * [Runta en maps](#runta-en-maps)
 * [MIYAJIMA (27 - 28)](#miyajima-27---28)
+  * [Cosas que ver](#cosas-que-ver-1)
+  * [Runta en maps](#runta-en-maps)
     * [Día 27](#día-27-1)
     * [Día 28](#día-28)
 * [KIOTO (28 - 31)](#kioto-28---31)
@@ -216,6 +218,24 @@ Nara + Osaka
 
 - Viaje a MIYAJIMA
 
+
+# Hiroshima 
+
+---
+## Cosas que ver
+
+- Parque de la Paz:
+    - Museo 
+    - Monumento de la Paz
+    - Todo el parque en general
+- Castillo de Hiroshima
+---
+
+# MIYAJIMA (27 - 28)
+
+- Entrada: 15:00-19:30
+- Salida: 7:00-10:00
+
 ---
 
 ## Cosas que ver
@@ -232,11 +252,6 @@ Nara + Osaka
 [Runta en maps](https://www.google.com/maps/dir/Torii+Flotante+del+Santuario+Itsukushima,+1-1+Miyajima,+Hatsukaichi,+Prefectura+de+Hiroshima,+Jap%C3%B3n/Santuario+Itsukushima,+1-1+Miyajimacho,+Hatsukaichi,+Hiroshima+739-0588,+Jap%C3%B3n/Itsukushima+Jinja+Goj%C5%ABnot%C5%8D,+1-1+Miyajima,+Hatsukaichi,+Prefectura+de+Hiroshima,+Jap%C3%B3n/Parque+Momijidani,+%E7%B4%85%E8%91%89%E8%B0%B7+Miyajimacho,+Hatsukaichi,+Hiroshima+739-0588,+Jap%C3%B3n/Daishoin,+210+Miyajima,+Hatsukaichi,+Prefectura+de+Hiroshima,+Jap%C3%B3n/Calle+Comercial+Miyajima+Omotesando,+535+Miyajima,+Hatsukaichi,+Prefectura+de+Hiroshima,+Jap%C3%B3n/Kiyomori+Shrine,+28-1+Miyajima,+Hatsukaichi,+Prefectura+de+Hiroshima,+Jap%C3%B3n/@34.295325,132.3192351,16.35z/data=!4m44!4m43!1m5!1m1!1s0x355ab0b5ad9d8571:0xea24e9736cdf923d!2m2!1d132.3196726!2d34.2960843!1m5!1m1!1s0x601ae3047ec76d8f:0x357228f7d0b5d590!2m2!1d132.3198285!2d34.2959896!1m5!1m1!1s0x355ab0b697340001:0xdb12161b3a07ecdb!2m2!1d132.3207247!2d34.2971978!1m5!1m1!1s0x355ab0b791262f75:0x22ba1c5e4b02cde7!2m2!1d132.324065!2d34.2942053!1m5!1m1!1s0x355ab0cbbbdfc909:0xba3e1966c707fc3f!2m2!1d132.3184934!2d34.2920462!1m5!1m1!1s0x355ab0b13ccd38d7:0xbc9022cfd4680083!2m2!1d132.3218356!2d34.2989747!1m5!1m1!1s0x355ab0b567960811:0xe2ab650bea5c0b2d!2m2!1d132.3164299!2d34.2963759!3e2?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D)
 ---
 
-# MIYAJIMA (27 - 28)
-
-- Entrada: 15:00-19:30
-- Salida: 7:00-10:00
-
 ### Día 27
 
 - Osaka-Hiroshima: (metro + tren + tran) 2h45m
@@ -246,7 +261,7 @@ Nara + Osaka
 ### Día 28
 
 - Miyahima - Himeji (transbordo en Hiroshima): (ferri + tren + tren) 2h20m
-- Himeji - Kobe: (caminar + tren) 1h20m
+- Himeji - Kobe: (caminar + tren) 1h20mHiroshima
   {
 - Kobe - Kioto: (tren + metro) 2h
 - Himeji - Kioto: (caminar + tren) 3h
