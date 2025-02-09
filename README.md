@@ -21,6 +21,8 @@
     * [Día 25](#día-25)
     * [Día 24](#día-24-1)
     * [Día 27](#día-27)
+  * [Cosas que ver](#cosas-que-ver)
+  * [Runta en maps](#runta-en-maps)
 * [MIYAJIMA (27 - 28)](#miyajima-27---28)
     * [Día 27](#día-27-1)
     * [Día 28](#día-28)
@@ -215,6 +217,7 @@ Nara + Osaka
 - Viaje a MIYAJIMA
 
 ---
+
 ## Cosas que ver
 
 - Santuario Itsukushima
